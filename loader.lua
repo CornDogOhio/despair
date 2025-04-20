@@ -4,7 +4,7 @@ loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Shiftlock-2
 -- Despair configuration
 getgenv().despair = {
     Main = {
-        ["Enabled"] = false,
+        ["Enabled"] = true,
         ["Keybind"] = "Q",
         ["Camlock"] = true,
         ["Prediction"] = 0.12828,
