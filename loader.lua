@@ -35,7 +35,7 @@ getgenv().despair = {
     },
     Whitelist = {
         AllowedUsers = {
-            {"IwillcleanRbw3", "rbxassetid://1234567890"},
+            {"Siuanrehman", "rbxassetid://3296269340"},
             {"IZDIzd6", "rbxassetid://1234567890"},
             {"User3", "rbxassetid://1234567890"},
         },
